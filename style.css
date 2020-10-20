@@ -12,7 +12,8 @@ h1
 }
 body
 {
-	background-image: url('images/pexels-photo-1105666.jpeg');
+	background-image: url('images/background.jpg');
+	background-color: ;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
@@ -36,55 +37,55 @@ cursor:pointer;
 }
 .a
 {
-	background-image: url('images/sunrise-phu-quoc-island-ocean.jpg');
+	background-image: url('images/title.jfif');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
 .b
 {
-	background-image: url('images/pexels-photo-144428.jpeg');
+	background-image: url('images/taare_gin.jpg');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
 .c
 {
-	background-image: url('images/amazing-animal-beautiful-beautifull.jpg');
+	background-image: url('images/khulke_jeene_ka.jfif');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
 .d
 {
-	background-image: url('images/pexels-photo-209807.jpeg');
+	background-image: url('images/afreeda.jfif');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
 .e
 {
-	background-image: url('images/pexels-photo-823694.jpeg');
+	background-image: url('images/main_tumhara.jfif');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
 .f
 {
-	background-image: url('images/pexels-photo-1036405.jpeg');
+	background-image: url('images/mera_naam_kizzie.jfif');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
 .g
 {
-	background-image: url('images/pexels-photo-1046403.jpeg');
+	background-image: url('images/kar_band.jfif');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
 .h
 {
-	background-image: url('images/amazing-animal-beautiful-beautifull.jpg');
+	background-image: url('images/raja_ko_rani.jfif');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
 .i
 {
-	background-image: url('images/pexels-photo-209807.jpeg');
+	background-image: url('images/maskhari.jfif');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
