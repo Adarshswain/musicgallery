@@ -1,0 +1,91 @@
+*
+{
+	padding:0;
+	margin:0;
+}
+h1
+{
+	text-align: center;
+	font-size:1.8rem; 
+	color:blue;
+	padding:20 0px;
+}
+body
+{
+	background-image: url('images/pexels-photo-1105666.jpeg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+main
+{
+width:90%;
+height:550px;
+margin: auto;
+border:1px solid black;
+display:flex; justify-content: space-around;
+align-items: center;
+flex-wrap: wrap; /*to wrap all the utem in the div to a particular width  in the border */
+}
+div
+{
+width:30%;
+height:160px;
+box-shadow:2px 2px 5px grey;
+border-radius:10%;
+cursor:pointer;
+}
+.a
+{
+	background-image: url('images/sunrise-phu-quoc-island-ocean.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.b
+{
+	background-image: url('images/pexels-photo-144428.jpeg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.c
+{
+	background-image: url('images/amazing-animal-beautiful-beautifull.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.d
+{
+	background-image: url('images/pexels-photo-209807.jpeg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.e
+{
+	background-image: url('images/pexels-photo-823694.jpeg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.f
+{
+	background-image: url('images/pexels-photo-1036405.jpeg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.g
+{
+	background-image: url('images/pexels-photo-1046403.jpeg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.h
+{
+	background-image: url('images/amazing-animal-beautiful-beautifull.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.i
+{
+	background-image: url('images/pexels-photo-209807.jpeg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
